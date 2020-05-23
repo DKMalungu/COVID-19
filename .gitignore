@@ -712,6 +712,4 @@ dmypy.json
 
 # End of https://www.gitignore.io/api/python
 
-*.json
-*.csv
-*.pdf
+
